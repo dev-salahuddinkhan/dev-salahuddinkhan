@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-salahuddinkhan&label=Profile%20views&color=0e75b6&style=flat" alt="dev-salahuddinkhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-salahuddinkhan&theme=onestar&margin-w=15" alt="dev-salahuddinkhan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-salahuddinkhan&theme=flat&margin-w=15" alt="dev-salahuddinkhan" /></a> </p>
 
 - 🔭 I’m currently working on [MegaShop E-commerce Website](https://megashop.megamindit.com/)
 
